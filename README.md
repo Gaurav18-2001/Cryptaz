@@ -1,0 +1,2 @@
+# Cryptaz
+Secure chat application
